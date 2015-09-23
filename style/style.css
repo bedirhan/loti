@@ -1,0 +1,36 @@
+body{
+	padding-top: ;
+}
+
+#container {
+	height: 340px;
+	padding: 0px;
+}	
+
+div.score{
+	height: 160px;
+	padding: 22px 28px;
+	font-size: 42px;
+	line-height: normal;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;	
+	text-align: center;
+	background-color: #ED561B;
+	color: white;
+}
+
+div.score > span{
+	font-size: 74px;
+}
+
+div.inputgroup{
+	height: 160px;
+	padding-top: 10px;			
+	line-height: normal;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;	
+	text-align: center;
+	background-color: lightgray;
+}
